@@ -344,7 +344,15 @@ export default {
         backendOptions: [ { value: "https://subapi.zrfme.com" }, { value: "https://subapi.cmliussss.net" }, { value: "https://subapi.fxxk.dedyn.io" }, { value: "https://url.v1.mk" }, { value: "https://sub.d1.mk" }, { value: "https://www.nameless13.com" }, { value: "https://sub.xeton.dev" }, { value: "https://api.wcc.best" }, { value: "https://sub.xjz.im" }, { value: "https://api.sublink.dev" }, { value: "https://api.subcsub.com" } ],
         remoteConfig: [
           {
-            label: "CM规则",
+            label: "ACL4SSR",
+            options: [
+              {
+                label: "自用 全分组 多模式",
+                value: "https://raw.githubusercontent.com/mexiaow/ACL4SSR/main/ACL4SSR_Online_Full_MultiMode.ini"
+              },
+            
+              
+              { label: "CM规则",
             options: [
               {
                 label: "CM_Online 默认版 识别港美地区(与Github同步)",
