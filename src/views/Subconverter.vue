@@ -194,6 +194,7 @@
               </el-form-item>
 
               <!-- 【修改】只在非深色模式下显示评论开关 -->
+               <!--
               <el-form-item v-if="!isDarkMode" label-width="0px" style="margin-top: 10px; text-align: center;">
                 <el-switch
                   v-model="showComments"
@@ -201,6 +202,7 @@
                   inactive-text="隐藏评论区">
                 </el-switch>
               </el-form-item>
+               -->
 
             </el-form>
           </el-container>
