@@ -354,7 +354,7 @@ export default {
               },
               {
                   label: "自用 全分组 多模式 【SH】",
-                  value: "https://gh.1232323.xyz/https://raw.githubusercontent.com/mexiaow/ACL4SSR/main/ACL4SSR_Online_Full_MultiMode.ini"
+                  value: "https://gh.1232323.xyz/https://raw.githubusercontent.com/mexiaow/ACL4SSR/main/ACL4SSR_Online_Full_MultiMode_CN.ini"
               }
               ]
               },
