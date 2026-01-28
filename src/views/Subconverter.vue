@@ -597,6 +597,8 @@ export default {
               {
                   label: "自用 全分组 多模式",
                   value: "https://raw.githubusercontent.com/mexiaow/ACL4SSR/main/ACL4SSR_Online_Full_MultiMode.ini"
+              }
+              ]
               },
               {
               label: "CM规则",
